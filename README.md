@@ -19,7 +19,7 @@ Soft Skill:
 * Kesadaran diri
 * Kepemimpinan
 * Dedikasi atau loyalitas
-* networking
+* networking 
 
 
 
